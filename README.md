@@ -1,0 +1,1 @@
+There are three files, the cpp file is the acual code of the game , the countries.txt file is the file with the list of the country names and the last scores.txt file is the one which take a record of the scores in a single run.
